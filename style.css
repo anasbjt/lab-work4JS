@@ -1,0 +1,79 @@
+
+
+h1{
+    color: aliceblue;
+}
+
+h2{
+    color: aliceblue;
+}
+
+h3{
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+}
+
+label{
+    color: aliceblue;
+}
+
+body{
+    background-color: rgb(40, 36, 36);
+}
+
+.titre1{
+    padding: 10px;
+    text-align: center;
+}
+
+.p1{
+    padding: 10px;
+    text-align: center;
+}
+
+.list1{
+    display :flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.list1 a {
+    color: rgb(26, 35, 77);
+    text-decoration: none;
+}
+
+input {
+    border-radius: 4px;
+}
+
+button{
+    color: rgb(26, 35, 77);
+    text-decoration: none;
+}
+
+.container {
+    width: 70%;
+    display: block;
+    margin: auto;
+    background-color: rgb(131, 114, 113);
+}
+
+section {
+    border-radius: 10px;
+    width: 65%;
+    background-color: rgb(45, 76, 120);
+    display: block;
+    margin: auto;
+}
+
+.container, section {
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+a{
+    color: rgb(26, 35, 77);
+    text-decoration: none;
+}
